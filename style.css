@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    height: 100%;
+  }
+
+  body {
+    background: url('./kobe background.jpg') no-repeat; 
+    background-size: cover;
+    height: 100%;
+  }
+  
+  main {
+    font-family: 'Bungee Hairline', cursive;
+    font-variant-caps: all-small-caps;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px #fff;
+    display: block;
+    min-height: 70%;
+  }
+  
+  header {
+    min-height: 10%;
+  }
+  
+  footer {
+    min-height: 10%;
+  }
+  
+  .quizForm {
+    display: none;
+    text-align: center;
+  }
+  
+  .start {
+    display: display;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 70px;
+    margin-bottom: 0px;
+    padding: 0px;
+  }
+  
+  h2, button {
+    padding: 10px 30px;
+  }
+  
+  button {
+      border: 0;
+      line-height: 2.5;
+      font-family: 'Bungee Hairline', cursive;
+      font-weight: bolder;
+      text-align: center;
+      color: #000;
+      border-radius: 10px;
+      background-color: gold;
+      font-size: 30px !important;
+      padding-right: 20px;
+      padding-left: 20px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+  }
+  
+  .scoreBoard {
+    list-style: none;
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px #fff;
+    display: block;
+    text-align: right;
+    padding-right: 20px;
+  }
+  
+  .quote {
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 2px #fff;
+    display: block;
+    text-align: right;
+    padding-right: 20px;
+  }
+  
+  .answerOption {
+    font-size: 30px;
+    display: block;
+  }
+  
+   @media(max-width: 500px) {
+  
+    p, ul, h1, h2, fieldset {
+      background-color: rgba(255,255,255,0.8);
+    }
+  } 
+  
+  
+  
+  
