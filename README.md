@@ -9,7 +9,7 @@
 <h2>Screenshots</h2>
 <h3>Landing Page</h3>
 
-![alt text](https://github.com/jaredmichael/Kobe-Quiz-App/blob/master/screenshots/kobe-quiz-landing-page.png)
+![alt text](https://github.com/jaredmichael/Kobe-Quiz-App/blob/master/screenshots/kobe-quiz-landing-page.PNG)
 
 <h3>Feedback</h3>
 
